@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RabooV01
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning problem solving and data structures, with C++
-- 💞️ I’m looking to collaborate on building small projects (Console Applications)
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning ASP.NET Technology
+- 💞️ I’m looking to collaborate on building small projects
 - 📫 How to reach me: 
   via Gmail, rabii961ra@gmail.com
   via Telegram, (https://t.me/BossRaboo)
