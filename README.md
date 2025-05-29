@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RabooV01
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning ASP.NET Technology
-- 💞️ I’m looking to collaborate on building small projects
+- 👋 Hi, I’m Rabii Rasheed.
+- 👀 I’m Interested in software engineering.
+- 🌱 I’m Currently learning ASP.NET core Technology, Exploring entity framework core and seeking forward deepen my knowledge with SQL.
+- 💞️ I’m looking to collaborate on building projects that will give me the role of back-end developer.
 - 📫 How to reach me: 
   via Gmail, rabii961ra@gmail.com
   via Telegram, (https://t.me/BossRaboo)
